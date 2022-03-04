@@ -11,7 +11,7 @@
 
 # 系统/软件
 - macOS Catalina (10.15.7)
-- opencoreconfigurator0.7.7 0.7.7 MOD修改版
+- opencoreconfigurator0.7.7 MOD修改版
 
 # BIOS
 - CPU Configuration, CPU C states Support, Enabled,
